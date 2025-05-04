@@ -1,0 +1,7 @@
+*.out
+unit_test*
+*.a
+My_world
+*.o
+tests
+op.c
