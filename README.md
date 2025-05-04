@@ -93,11 +93,6 @@ Zoom	Scroll wheel / keyboard
 Modify terrain	Toolbar buttons
 Resize effect area	Toolbar option
 Reset tile altitudes	Toolbar option
-📁 Save Format
-
-    Maps are saved in .legend files
-
-    Format is designed to preserve terrain state and elevation data
 
 📌 Notes
 
